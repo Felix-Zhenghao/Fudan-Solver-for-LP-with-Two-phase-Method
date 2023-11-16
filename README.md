@@ -1,6 +1,6 @@
-## FDSMLP 线性规划求解器！
+## Fudan University Linear Programming Solver！
 
-时间有限，制作了用两阶段法完成线性规划的方法。
+Due to the limitation of time, I only realize the two-phase method to solve the LP problems.
 
 The solver can output the specific steps of solving a linear programming problem and you can check your homework answer with it!
 
